@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/Huzaifa538/phone-laptop-sync/releases/download/v1.0.11/PhoneLaptopSync-Portable-v1.0.11.exe",
-  "notes": "ICU forwarder fix: asli icuuc76.dll + forwarder icuuc.dll bundle. QtWidgets ab pakka khulega.",
+  "version": "1.0.12",
+  "url": "https://github.com/Huzaifa538/phone-laptop-sync/releases/download/v1.0.12/PhoneLaptopSync-Portable-v1.0.12.exe",
+  "notes": "Forwarder DLL header fix (0x2022). Ab Windows ise valid manega.",
   "min_version": "1.0.0"
 }
