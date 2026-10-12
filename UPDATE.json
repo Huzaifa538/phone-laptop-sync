@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/Huzaifa538/phone-laptop-sync/releases/download/v1.0.13/PhoneLaptopSync-Portable-v1.0.13.exe",
-  "notes": "Relay auto-start: app khulne par relay server khud chalega. Phone ab QR scan karke connect ho sakega.",
+  "version": "1.0.14",
+  "url": "https://github.com/Huzaifa538/phone-laptop-sync/releases/download/v1.0.14/PhoneLaptopSync-Portable-v1.0.14.exe",
+  "notes": "Updater fix: ab error nazar aayega, httpx fail ho to urllib backup. Auto-update pakka kaam karega.",
   "min_version": "1.0.0"
 }
