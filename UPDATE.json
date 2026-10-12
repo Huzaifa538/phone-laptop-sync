@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/Huzaifa538/phone-laptop-sync/releases/download/v1.0.8/PhoneLaptopSync-Portable-v1.0.8.exe",
-  "notes": "Self-diagnosing startup: na khulne par dialog me exact waja. Auto-update system live.",
+  "version": "1.0.9",
+  "url": "https://github.com/Huzaifa538/phone-laptop-sync/releases/download/v1.0.9/PhoneLaptopSync-Portable-v1.0.9.exe",
+  "notes": "ICU fix: nakli icuuc.dll hatayi, ab Windows ki asli system ICU use hogi. QtWidgets crash khatam.",
   "min_version": "1.0.0"
 }
