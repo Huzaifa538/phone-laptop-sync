@@ -1,6 +1,6 @@
 {
   "version": "1.0.8",
-  "url": "https://github.com/Huzaifa538/phone-laptop-sync/releases/download/v1.0.8/PhoneLaptopSync-Portable-v8.exe",
-  "notes": "Self-diagnosing startup (v8): agar app na khule to dialog me exact waja aayegi. Purani app auto-band karke install hota hai.",
+  "url": "https://github.com/Huzaifa538/phone-laptop-sync/releases/download/v1.0.8/PhoneLaptopSync-Portable-v1.0.8.exe",
+  "notes": "Self-diagnosing startup: na khulne par dialog me exact waja. Auto-update system live.",
   "min_version": "1.0.0"
 }
